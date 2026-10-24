@@ -11,7 +11,9 @@
         table {
             width: 800px;
         }
-
+    </style>
+<!--
+    <style>
         /*Dropdown Style*/
         /*the container must be positioned relative:*/
         .name-select {
@@ -74,7 +76,7 @@
             background-color: rgba(0, 0, 0, 0.1);
         }
     /*End Dropdown Style*/
-    </style>
+    </style>-->
 
 
 </head>
@@ -85,8 +87,8 @@
     <table>
         <tr>
 <!-- Wrap the select box in a 'custom-select' DIV element. Remember to set the width:-->
-            <th><div class="name-select" style="width:200px;" alias="Dropdown1">
-                    <select>
+            <th><!--<div class="name-select" style="width:200px;" alias="Dropdown1">-->
+                    <select name="Dropdown1" id="name1">
                         <option value="1">A</option>
                         <option value="2">Abyss</option>
                         <option value="3">Acacia</option>
@@ -804,11 +806,11 @@
                         <option value="715">Zombie</option>
                         <option value="716">Zoom</option>
                     </select>
-                </div></th>
+                <!--</div>--></th>
 
-            <th><div class="name-select" style="width:200px;" alias="Dropdown2">
-                    <select>
-                        <option value="1"></option>
+            <th><!--<div class="name-select" style="width:200px;" alias="Dropdown2">-->
+                    <select name="Dropdown2" id="name2">
+                        <option value="1"> </option>
                         <option value="2">a</option>
                         <option value="3">able</option>
                         <option value="4">abyss</option>
@@ -1612,7 +1614,7 @@
                         <option value="802">zoom</option>
                         <option value="803">zy</option>
                     </select>
-                </div></th>
+                <!--</div>--></th>
         </tr>
     </table>
 
