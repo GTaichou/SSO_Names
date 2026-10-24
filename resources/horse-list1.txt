@@ -224,7 +224,7 @@ Euphoria
 Even
 Evening
 Ever
-Expeditioin
+Expedition
 Express
 Extra
 Fabulous
@@ -435,7 +435,7 @@ Mouse
 Movie
 Muffin
 Music
-Musin
+Musing
 Mystic
 Myth
 Nacho
