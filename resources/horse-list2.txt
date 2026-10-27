@@ -205,7 +205,7 @@ dust
 dy
 e
 eagle
-dearl
+earl
 earth
 echo
 eclipse
@@ -541,7 +541,7 @@ plan
 planet
 plant
 play
-pedge
+pledge
 polo
 pony
 pop
